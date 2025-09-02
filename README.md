@@ -6,9 +6,9 @@
 
 ### ⚙️ 컴포넌트 설명 및 구조
 
-| 컴포넌트                                                                                                 | 구조                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src='https://github.com/user-attachments/assets/42f32ee4-1146-4cdb-9de4-03495a75b8e3' width=600px/> | <img width="226" alt="스크린샷 2024-09-02 오후 6 38 31" src="https://github.com/user-attachments/assets/b51002c9-0c67-48d2-a0ea-83aa6151f8ad"> |
+| 컴포넌트 | 구조 |
+| --- | --- |
+| <img width=600px alt="과제 안내 사진" src="https://github.com/user-attachments/assets/2daebd4e-2d5b-4829-90ab-443cde9eb4f1" /> | <img width="226" src="https://github.com/user-attachments/assets/b51002c9-0c67-48d2-a0ea-83aa6151f8ad"> |
 
 - `Content` : Left, Right 컴포넌트를 좌우에 배치
 - `Left` : 프론트엔드, 백엔드, 기획/디자인 버튼 렌더링과 클릭 이벤트 처리를 담당
