@@ -68,7 +68,7 @@ const member = [
   {
     id: 23,
     name: "정교은",
-    part: "백엔드",
+    part: "프론트엔드",
     role: "아기사자",
   },
   {
