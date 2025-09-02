@@ -80,7 +80,7 @@ const member = [
   {
     id: 25,
     name: "하지민",
-    part: "백엔드",
+    part: "기획/디자인",
     role: "아기사자",
   },
   {
